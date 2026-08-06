@@ -1,2 +1,2 @@
-# heranca-e-polimorfismo-C-
-Estudo de herança e polimorfismo da disciplina de Programação Avançada de SIstemas do curso de Sistemas de Informação
+# heranca-e-polimorfismo-CSharp-
+Estudo de *herança e polimorfismo* da disciplina de *Programação Avançada de Sistemas* do curso de *Sistemas de Informação*
